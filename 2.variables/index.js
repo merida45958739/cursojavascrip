@@ -15,16 +15,16 @@
 //se nesecita dos cosas
 //la palabra resrevada  y el nombre  en donde quiero 
 // almacenar el tipon  de datos
-let  nombre_de _pais 
+let  nombre_de_pais 
 var nombrepresidente
 let  edadDemigatito
 
 //variables herrados nunca copiar
-let @hola
-let 2hola
-let -nombre
-let x
-let uno
+// let @hola
+// let 2hola
+// let -nombre
+// let x
+// let uno
 
 //proceso de asignacion
 // el nombre  de la variable  es signo de asignacion
@@ -44,4 +44,4 @@ const numeriDni=12345678
 numeroDni=45958739 // que a diferencia de una variable 
 //la contante no puede  mutar
 // cambiar el dato almacendo
-console,log(numeroDni)
+console.log(numeroDni)
