@@ -37,3 +37,54 @@ if (divisor ==0){
 }else{
     console.log(dividendo/divisor)
 }
+
+
+
+//ejercicio 04
+// otra manera numerico y mes  
+numeroMes=5
+switch(numeroMes){
+    case 1:
+        console.log("enero")
+        break
+        console.log("febrero")
+        break
+        case 3:
+            console.log("marzo")
+            break
+            default:
+                console.log("error mes no encontrado")
+}
+
+
+//otra manera en vocales 
+numeroMes=b
+switch(numeroMes){
+    case a:
+        console.log("es una vocal")
+        break
+        default:
+        console.log("no una vocal")
+
+
+
+
+//otra manera en vocales 
+        vocal="e"
+        switch(vocal){
+            case "a": case "e": case "i": case "o": case "u":
+                console.log ("la letra ${vocal},es una vocal")
+                break
+                default:
+                    console,log("no es una vocal")
+        }
+
+
+
+        // ejemplos  de otra manera de realizar la programacion
+        console.log ("la letra ${vocal},es una vocal")
+        console.log ("la letra ",vocal,"es una vocal")
+        console.log ("la letra " + vocal +",es una vocal")
+
+
+        
