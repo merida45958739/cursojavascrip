@@ -14,3 +14,5 @@ while(eval==true){
         eval=false
     }
     console.log("hola")
+    //ejercio 01 muestra el factorial
+    
